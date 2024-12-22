@@ -2,6 +2,9 @@
 
 This file is our implementation of  "Asynchronous Federated Clustering with Unknown Number of Clusters."
 
+Contact: yfzhang@mail2.gdut.edu.cn
+
+
 ## How to Run AFCL
 
 Just run "AFCL_main.m", then the experimental results will be displayed automatically. 
