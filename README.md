@@ -35,7 +35,7 @@ Mac Sonoma 14.5 operating systems, MATLAB R2021b compilation environment, Apple 
 
 ```
 @inproceedings{
-AFCL,
+zhangafcl2025,
 title={Asynchronous Federated Clustering with Unknown Number of Clusters},
 author={Yunfan Zhang, Yiqun Zhang, Yang Lu, Mengke Li, Xi Chen, Yiu-ming Cheung},
 booktitle={In Proceedings of the AAAI Conference on Artificial Intelligence},
