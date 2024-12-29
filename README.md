@@ -2,7 +2,11 @@
 
 This file is our implementation of  "Asynchronous Federated Clustering with Unknown Number of Clusters."
 
-Contact: yfzhang@mail2.gdut.edu.cn
+Contact: 
+- yfzhang@mail2.gdut.edu.cn
+- 3121008002@mail2.gdut.edu.cn
+(Note that the e-mail shown in our paper is unavailable now.)
+
 
 
 ## How to Run AFCL
